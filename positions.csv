@@ -1,8 +1,17 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
-education,TRUE,"Post Grad. Masters in Program Evaluation and Data Analytics",Arizona State University,"Tempe, Az",2022, 2024,Working on Bayesian network models & interactive visualization platforms,University Graduate Fellow,NA
-education,TRUE,"Honors Degree., Business Studies , Marketing and Finance (minor)",University of East London,"London, UK",2009,2012,Thesis: Impact of Information Technology on Human Resource Management Processes
+
+education,TRUE,"Post Grad Masters in Program Evaluation and Data Analytics",Arizona State University,"Tempe, Az",2022, 2024,Working on Bayesian network models & interactive visualization platforms,University Graduate Fellow
+
+education,False,"Honors Degree, Business Studies , Marketing and Finance (minor)", University of East London,"London, UK",2009,2012,Thesis: Impact of Information Technology on Human Resource Management Processes
+
 research_positions,TRUE,Business Development Officer ,Malaysia),Linton University,2012,2013,Primarily Marketing and advertising college/tertiary study programs to local and international students
+
 research_positions,TRUE,Client Consultant ,Appstar Financial ,Arizona , California area,2017,2018,Networking and business development in local area (creating leads), merchant training and development
+
 industry_positions,TRUE,Supply Chain Analyst ,iGraphics, Dubai, UAE,  Develop and lead negotiation strategies for Pricing, Delivery, Terms & Conditions with suppliers and  
+
 subcontractors in compliance with supply chain regulation, policies, and procedures   
+
 industry_positions,TRUE,Director / Founder - Foti Incorporated Pvt Ltd, Zimbabwe, USA. Established company mission, vision and policies and procedures
+
+
